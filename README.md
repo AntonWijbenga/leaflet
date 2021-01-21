@@ -1,4 +1,4 @@
-# An R Interface to Leaflet Maps
+# An R Interface to Leaflet Maps - Test ARW
 
 [![Build Status](https://travis-ci.org/rstudio/leaflet.svg?branch=master)](https://travis-ci.org/rstudio/leaflet)
 
@@ -16,7 +16,7 @@ m
 m %>% addPopups(-93.65, 42.0285, 'Here is the <b>Department of Statistics</b>, ISU')
 ```
 
-## Installation
+## Installation edited by anton
 
 You can install this package from CRAN, or the development version from Github:
 
